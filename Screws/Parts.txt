@@ -1,0 +1,6 @@
+- 4 x Threaded Insert M2 for plastic parts with herringbone knurl on the outside.
+  Can be inserted into 3D printed parts by heat or ultrasound.
+  Screw thread M2, dia 3.6mm, height 4mm.
+- 4 x M2 x 8mm Cheese Head Screws (DIN 84) - Stainless Steel (A2) -  Accu Product Code (APC): SFE-M2-8-A2 (https://www.accu.co.uk/metric-cheese-head-screws/6470-SFE-M2-8-A2)
+- 4 x Module Peltier 3.8 Vcc, 6A, CP60440
+- 1 x TEC-1161-10A (2x ±10 A / ±21 V) https://www.meerstetter.ch/de/produkte/tec-controller/tec-1161-10a
