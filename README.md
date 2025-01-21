@@ -1,6 +1,10 @@
 # TCTMechanics
 Models and Drawings of low temperature TCT implementation with UZH Boards.
 
+<p align="center">
+   <img src="./Exploded.jpg" alt="Logo" width="300">
+</p>
+
 The model is composed of three parts: 
 - A base plate that serves as a support frame for the 4 peltier elements used in the ssystem
 - An anodized aluminum interposer used to ensure thermal contact between the readout boards and the peltier stack
