@@ -2,7 +2,7 @@
 Models and Drawings of low temperature TCT implementation with UZH Boards.
 
 <p align="center">
-   <img src="./Exploded.jpg" alt="Logo" width="300">
+   <img src="./TCTSetup.jpeg" alt="Logo" width="400">
 </p>
 
 The model is composed of three parts: 
